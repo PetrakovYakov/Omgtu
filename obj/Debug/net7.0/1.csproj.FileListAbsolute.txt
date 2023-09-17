@@ -1,0 +1,14 @@
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/bin/Debug/net7.0/1
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/bin/Debug/net7.0/1.deps.json
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/bin/Debug/net7.0/1.runtimeconfig.json
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/bin/Debug/net7.0/1.dll
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/bin/Debug/net7.0/1.pdb
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.AssemblyInfo.cs
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.dll
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/refint/1.dll
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.pdb
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/1.genruntimeconfig.cache
+/Users/yakovpetrakov/Desktop/офигеть я хорош/C#/1/obj/Debug/net7.0/ref/1.dll
