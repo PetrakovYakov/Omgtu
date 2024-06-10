@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Алгоритм Робертса", "Алгоритм Робертса.csproj", "{B264019F-AA39-47DE-BC15-F6983B31DE95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B264019F-AA39-47DE-BC15-F6983B31DE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B264019F-AA39-47DE-BC15-F6983B31DE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B264019F-AA39-47DE-BC15-F6983B31DE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B264019F-AA39-47DE-BC15-F6983B31DE95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {652CAA72-4155-4112-AA12-011942CC92DA}
+	EndGlobalSection
+EndGlobal

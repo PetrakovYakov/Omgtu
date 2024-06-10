@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3eOrbCSIPzz15uyx1HKcxvM5jU6Dk9zHlmPIIsd37f7Z+Us7bawNtqp4ixgB1IwPdIjb0NOWfPddOFKKVsYNw==",
+  "success": true,
+  "projectFilePath": "/Users/yakovpetrakov/Downloads/OmGTU-1-/2 семестр/DiscretMath/Алгоритм Крускала/Алгоритм Дейкстра/Дейкстра.csproj",
+  "expectedPackageFiles": [
+    "/Users/yakovpetrakov/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/yakovpetrakov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/yakovpetrakov/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.28/microsoft.netcore.app.host.osx-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

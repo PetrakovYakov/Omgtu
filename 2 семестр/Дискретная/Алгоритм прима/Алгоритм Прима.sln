@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Алгоритм Прима", "Алгоритм Прима.csproj", "{0B72A80C-F2A6-4AD7-B608-11F9B6656EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B72A80C-F2A6-4AD7-B608-11F9B6656EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B72A80C-F2A6-4AD7-B608-11F9B6656EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B72A80C-F2A6-4AD7-B608-11F9B6656EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B72A80C-F2A6-4AD7-B608-11F9B6656EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3D6D6C5-AC98-49A1-876D-0BE21F4324AC}
+	EndGlobalSection
+EndGlobal
