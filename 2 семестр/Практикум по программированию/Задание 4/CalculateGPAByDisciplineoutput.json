@@ -1,0 +1,12 @@
+{
+  "Response": [
+    {
+      "Discipline": "Programming",
+      "GPA": 4.25
+    },
+    {
+      "Discipline": "Algebra",
+      "GPA": 4.25
+    }
+  ]
+}
